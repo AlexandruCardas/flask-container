@@ -1,9 +1,5 @@
 # flask-container
 
-## Commands
+## Instructions
 
-`export FLASK_APP=app.py`
-
-`export FLASK_ENK=development`
-
-`flask run`
+Use the `run.sh` script provided.
